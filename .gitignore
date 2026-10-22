@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
-kulam2.db
-instance/
-.DS_Store
